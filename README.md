@@ -73,5 +73,5 @@ genai-rag-data-assistant/
 
 ## 👨‍💻 Author
 
-**Shaikh Hajisab**  
-Contact: hajisk89999@gmail.com
+**Prathamesh Rajput**  
+Contact: prathameshrajput2004@gmail.com
