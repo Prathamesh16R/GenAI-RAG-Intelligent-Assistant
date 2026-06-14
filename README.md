@@ -52,7 +52,7 @@ Relevant Document Chunks
 ↓
 Local LLM (Ollama)
 ↓
-Answer + Sources
+Answer + Sources.
 
 ## 📂 Project Structure
 
